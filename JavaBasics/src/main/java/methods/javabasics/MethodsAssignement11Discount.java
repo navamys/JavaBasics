@@ -32,6 +32,7 @@ public class MethodsAssignement11Discount {
 		int total=obj.calculateTotalAmount(500,300,5000);
 		System.out.println("Your total price is "+total);
 		obj.checkDiscount(total);
+
 		
 	}
 
